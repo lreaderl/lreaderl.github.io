@@ -74,9 +74,9 @@ author:
 social-network-links:
   rss: true
   email: "tonyyy@foxmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+#  facebook: daattali
+  github: lreaderl
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -86,17 +86,18 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: (+86)18008120828
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+#  twitter: true
+#  facebook: true
+#  google: false
+#  linkedin: true
+   github:true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
